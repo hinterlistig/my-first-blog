@@ -25,7 +25,7 @@ SECRET_KEY = '+yyi_b(n=jdm-k#(fjazkh$im((#tl65y1in*ycfanrn8%3x$3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kvptest.pythonanywhere.com',]
 
 
 # Application definition
